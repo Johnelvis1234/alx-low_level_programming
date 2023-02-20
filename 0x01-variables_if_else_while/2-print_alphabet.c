@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <unistd>
 /**
  * main - print the alphabet in lowercase\n
  * Return: 0
