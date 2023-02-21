@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - print all possible combination of a single dugit number
  * Return: 0
