@@ -4,6 +4,7 @@
  * @c: is the char to be checked
  * Return: 1 if the char is in lowercase, otherwise 0
  */
+
 int _islower(int c)
 {
 	if (c >= 'a' && c <= 'z')
