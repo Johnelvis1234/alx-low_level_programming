@@ -1,4 +1,4 @@
-#include "main_h"
+#include "main.h"
 /**
  * rest_to_98 - update the value of a var using pointers
  * @n: intel to update
