@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * rest_to_98 - update the value of a var using pointers
- * @n: intel to update
+ * reset_to_98 - updates the value it points to 98
+ * @n: int to update
  * Return: 0
  */
 
